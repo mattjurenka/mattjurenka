@@ -1,11 +1,21 @@
-# [www.matthewjurenka.com](https://www.matthewjurenka.com)
+# [jurenka.software](https://jurenka.software/)
 
-I love programming because it's hard. There are an infinite number of ways to approach a problem and an infinite number of ways you can shoot yourself in the foot. The reason I wake up in the morning is to find new ways to manage that complexity and discover new solutions nobody has thought of before.
+Jurenka Software is a full service software development agency that focuses on delivering quality results.
 
-My current specialty is blockchain and cryptocurrency projects, whether that be creating tokens, smart contracts, project websites, or anything else you may need to make your project a success. I have worked with most popular frameworks, and can pick up any other platform out there. If you have a project you need help with, feel free to contact me through my website, and I will get back to you within two business days.
+Though we are able to take on any project regardless of the technology involved, most of our recent engineering has been around Sui, Move, and Rust.
 
-## Skills
-- Fullstack Development
-- Blockchain Development
-- TypeScript and Rust expert
-- Have used or can learn very quickly all other popular languages/tech stacks (even prolog)
+Our experience in big tech leads us to prioritize maintainability and testability, ensuring that software we write today will continue to work throughout the years.
+
+## What We Offer
+
+### Full Stack Development
+
+We take on the whole software lifecycle, from the inception of the idea to it's final release. We can handle both frontend and backend, and use any technology, even if it falls outside of our specialty.
+
+### Audits
+
+Don't risk waking up to your protocol appearing on [the rekt leaderboard](https://rekt.news/leaderboard/). We can run an audit on a pay per vulnerability discovered basis, so you only pay for value added by our services.
+
+### Training
+
+Want to jump into the Sui ecosystem and learn Move? We offer tutoring sessions at a flat hourly rate. We can use the time to do anything from discussing the details of Sui consensus to architecting your next smart contract.
